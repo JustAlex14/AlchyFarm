@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:thrift_stamp_1",
+    "alchyfarm:crimson_seal",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "alchyfarm:thrift_stamp_2"
+  }
+}

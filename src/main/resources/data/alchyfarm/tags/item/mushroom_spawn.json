@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:red_mushroom",
+    "minecraft:brown_mushroom",
+    "minecraft:crimson_fungus",
+    "minecraft:warped_fungus",
+    "minecraft:nether_wart",
+    {
+      "id": "#c:mushrooms",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "age=0,top=true": {
+      "model": "alchyfarm:block/trellis"
+    },
+    "age=0,top=false": {
+      "model": "alchyfarm:block/trellis_mid"
+    },
+    "age=1,top=true": {
+      "model": "alchyfarm:block/trellis_vine"
+    },
+    "age=1,top=false": {
+      "model": "alchyfarm:block/trellis_vine_mid"
+    },
+    "age=2,top=true": {
+      "model": "alchyfarm:block/trellis_berries"
+    },
+    "age=2,top=false": {
+      "model": "alchyfarm:block/trellis_berries_mid"
+    }
+  }
+}

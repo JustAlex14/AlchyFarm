@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:violet_wax",
+    "alchyfarm:ledger_page",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "alchyfarm:violet_seal"
+  }
+}

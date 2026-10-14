@@ -1,0 +1,43 @@
+{
+  "name": "Stamps",
+  "icon": "alchyfarm:haste_stamp_1",
+  "category": "alchyfarm:letter",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "An Order in Wax",
+      "text": "A hand takes no order from me. A post does. A $(item)stamp$() pressed on a post changes how the place is worked.$(br2)Sneak and use the post with a stamp, or use the letter at the right of its screen. A post bears one stamp of each kind. The one it replaces comes back to me."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:haste_stamp_1",
+      "text": "$(item)Haste$(). The work, the walking, and whatever ripens by the clock, all quicker: 15, 30, 55, then 80 in a hundred, by tier."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:bounty_stamp_1",
+      "text": "$(item)Bounty$(). More brought back. One more for every four, then for every two. Past that it is more than double."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:thrift_stamp_1",
+      "text": "$(item)Thrift$(). Less used up. Seed, bone meal, bait, feed, a pickaxe's edge: spared 20, 40, 65, then 90 times in a hundred."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Tiers",
+      "text": "Tier II is the stamp again, with a second crimson seal. Tier III takes a $(thing)violet$() seal. Tier IV takes another, a nether star, and something I will come to.$(br2)The first two tiers make a good estate. The last two make something else. Read the last chapter before pressing one."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:quality_stamp_1",
+      "text": "$(item)Quality Work$(). The post is never short. Bone meal, torches, bait and feed are used as if the stock were full, and none is taken."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:void_stamp_1",
+      "text": "$(item)Void$(). Seed and saplings beyond what is kept for sowing are destroyed, not stored. The second tier is harsher: it keeps only what the rift has touched."
+    }
+  ]
+}

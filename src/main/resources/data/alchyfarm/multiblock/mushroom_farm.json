@@ -1,0 +1,140 @@
+{
+  "core": "alchyfarm:forager_post",
+  "front": "south",
+  "anchors": {
+    "stock": [
+      -1,
+      0,
+      0
+    ],
+    "basket": [
+      1,
+      0,
+      0
+    ],
+    "bed": [
+      0,
+      0,
+      -2
+    ]
+  },
+  "layers": [
+    [
+      "KKKKK",
+      "KMMMK",
+      "KMMMK",
+      "KMMMK",
+      "KKKKK"
+    ],
+    [
+      "KKKKK",
+      "K...K",
+      "K...K",
+      "K...K",
+      "KsXbK"
+    ],
+    [
+      "KKKKK",
+      "K___K",
+      "K___K",
+      "K___K",
+      "K___K"
+    ],
+    [
+      "KKKKK",
+      "K___K",
+      "K___K",
+      "K___K",
+      "K___K"
+    ],
+    [
+      "KKKKK",
+      "KKKKK",
+      "KKKKK",
+      "KKKKK",
+      "KKKKK"
+    ]
+  ],
+  "key": {
+    "K": {
+      "tag": "alchyfarm:hollow_stone",
+      "name": "rough stone: cobblestone, stone, deepslate, tuff (floor, walls and roof)"
+    },
+    "M": {
+      "any": true
+    },
+    "s": {
+      "block": "alchyfarm:stock",
+      "name": "a stock (beside the post)"
+    },
+    "b": {
+      "block": "alchyfarm:basket",
+      "name": "a basket (beside the post, on the other side)"
+    },
+    "X": {
+      "core": true
+    },
+    ".": {
+      "any": true
+    },
+    "_": {
+      "any": true
+    }
+  },
+  "result": [
+    [
+      "cmccm",
+      "ckkkc",
+      "mkkkc",
+      "ckkkm",
+      "cccmc"
+    ],
+    [
+      "mcmcm",
+      "ckkkm",
+      "mkkkc",
+      "ckkkm",
+      "ckkkc"
+    ],
+    [
+      "cmcmc",
+      "mkkkc",
+      "ckkkm",
+      "mkkkc",
+      "mkkkc"
+    ],
+    [
+      "mmcmm",
+      "mkkkm",
+      "ckpkm",
+      "mkkkm",
+      "mkkkm"
+    ],
+    [
+      "mmmmm",
+      "mmmmm",
+      "mmgmm",
+      "mmmmm",
+      "mmmmm"
+    ]
+  ],
+  "result_key": {
+    "k": {
+      "keep": true
+    },
+    "c": {
+      "block": "minecraft:mossy_cobblestone"
+    },
+    "m": {
+      "block": "minecraft:moss_block"
+    },
+    "g": {
+      "block": "minecraft:shroomlight",
+      "real": true
+    },
+    "p": {
+      "block": "minecraft:spore_blossom",
+      "real": true
+    }
+  }
+}

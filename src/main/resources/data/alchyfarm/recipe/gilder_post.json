@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "alchyfarm:carved_splinter",
+    "alchyfarm:estate_timber",
+    "alchyfarm:violet_seal",
+    "minecraft:golden_carrot"
+  ],
+  "result": {
+    "id": "alchyfarm:gilder_post"
+  }
+}

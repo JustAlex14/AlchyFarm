@@ -1,0 +1,143 @@
+{
+  "core": "alchyfarm:miner_post",
+  "front": "south",
+  "anchors": {
+    "stock": [
+      -1,
+      0,
+      0
+    ],
+    "basket": [
+      1,
+      0,
+      0
+    ],
+    "floor": [
+      0,
+      0,
+      -2
+    ]
+  },
+  "layers": [
+    [
+      "KKKKK",
+      "KKKKK",
+      "KKKKK",
+      "KKKKK",
+      "KKKKK"
+    ],
+    [
+      "KKKKK",
+      "K...K",
+      "K...K",
+      "K...K",
+      "LsXbL"
+    ],
+    [
+      "KKKKK",
+      "K___K",
+      "K___K",
+      "K___K",
+      "L___L"
+    ],
+    [
+      "KKKKK",
+      "K___K",
+      "K___K",
+      "K___K",
+      "L___L"
+    ],
+    [
+      "KKKKK",
+      "KKKKK",
+      "KKKKK",
+      "KKKKK",
+      "LLLLL"
+    ]
+  ],
+  "key": {
+    "K": {
+      "tag": "alchyfarm:hollow_stone",
+      "name": "rough stone: cobblestone, stone, deepslate, tuff (floor, walls and roof)"
+    },
+    "L": {
+      "tag": "minecraft:logs",
+      "name": "a log (the timber of the front: two posts and the beam across the roof)"
+    },
+    "s": {
+      "block": "alchyfarm:stock",
+      "name": "a stock (beside the post)"
+    },
+    "b": {
+      "block": "alchyfarm:basket",
+      "name": "a basket (beside the post, on the other side)"
+    },
+    "X": {
+      "core": true
+    },
+    ".": {
+      "any": true
+    },
+    "_": {
+      "any": true
+    }
+  },
+  "result": [
+    [
+      "scscs",
+      "csssc",
+      "sscss",
+      "csssc",
+      "scscs"
+    ],
+    [
+      "sssss",
+      "skkks",
+      "skkks",
+      "skkks",
+      "wkkkw"
+    ],
+    [
+      "scsss",
+      "skkkc",
+      "ckkks",
+      "skkks",
+      "wkkkw"
+    ],
+    [
+      "ssscs",
+      "ckkks",
+      "skhks",
+      "skkkc",
+      "wkkkw"
+    ],
+    [
+      "csscs",
+      "sscss",
+      "scssc",
+      "sssss",
+      "wwwww"
+    ]
+  ],
+  "result_key": {
+    "k": {
+      "keep": true
+    },
+    "s": {
+      "block": "minecraft:stone"
+    },
+    "c": {
+      "block": "minecraft:cobblestone"
+    },
+    "w": {
+      "same": true
+    },
+    "h": {
+      "block": "minecraft:lantern",
+      "state": {
+        "hanging": "true"
+      },
+      "real": true
+    }
+  }
+}

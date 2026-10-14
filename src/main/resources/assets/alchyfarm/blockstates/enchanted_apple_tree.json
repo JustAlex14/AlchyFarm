@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "alchyfarm:block/enchanted_apple_tree_stage0"
+    },
+    "age=1": {
+      "model": "alchyfarm:block/enchanted_apple_tree_stage1"
+    },
+    "age=2": {
+      "model": "alchyfarm:block/enchanted_apple_tree_stage2"
+    },
+    "age=3": {
+      "model": "alchyfarm:block/enchanted_apple_tree_stage3"
+    }
+  }
+}

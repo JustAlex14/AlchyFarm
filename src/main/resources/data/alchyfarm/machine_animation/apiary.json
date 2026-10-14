@@ -1,0 +1,6 @@
+{
+  "effects": [
+    {"type": "figure", "figure": "alchyfarm:swarm", "at": "core"},
+    {"type": "figure", "figure": "alchyfarm:farmhand", "display": "soul", "at": "core", "hover": 0.16, "bob": 0.06}
+  ]
+}

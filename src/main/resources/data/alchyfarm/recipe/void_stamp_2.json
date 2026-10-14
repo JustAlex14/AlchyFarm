@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:void_stamp_1",
+    "alchyfarm:violet_seal",
+    "minecraft:ender_eye"
+  ],
+  "result": {
+    "id": "alchyfarm:void_stamp_2"
+  }
+}

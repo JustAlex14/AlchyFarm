@@ -1,0 +1,30 @@
+{
+  "name": "The Mushroom Hollow",
+  "icon": "alchyfarm:forager_post",
+  "category": "alchyfarm:violet",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:forager_post",
+      "text": "The $(item)forager's post$(): made with a mushroom, under the violet seal."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Mushroom Hollow",
+      "multiblock_id": "alchyfarm:mushroom_farm",
+      "enable_visualize": true,
+      "text": "Common stone. Stock, post, basket in front."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "A Cave of My Own",
+      "text": "Not a field. A cave I build, five by five and five high, of cobble, stone, deepslate, tuff or moss. When the last stone is laid it grows over.$(br2)Mushrooms come up on the bed by themselves, one every $(thing)20 seconds$(). The one who picks them is not like the others. Bone meal fills the bed at once."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:spore_loam",
+      "text": "$(item)Spore loam$() takes every kind: mushrooms, both fungi, nether wart. Keep one of a kind in the stock, and use the post to choose what grows."
+    }
+  ]
+}

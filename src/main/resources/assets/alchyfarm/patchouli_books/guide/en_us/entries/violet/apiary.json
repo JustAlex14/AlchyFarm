@@ -1,0 +1,18 @@
+{
+  "name": "The Apiary",
+  "icon": "alchyfarm:beekeeper_post",
+  "category": "alchyfarm:violet",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:beekeeper_post",
+      "text": "The $(item)beekeeper's post$(): made with a beehive. Fence in a yard."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Hives",
+      "text": "I set the hives and plant the flowers myself. The hives fill with no bee in them that I can touch, quicker with more flowers, up to $(thing)11$().$(br2)Use the post to choose what a full hive becomes: honey into a cask, a bottle if there are bottles, or comb. A bottle held to a cask of honey fills."
+    }
+  ]
+}

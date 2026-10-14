@@ -1,0 +1,17 @@
+{
+  "name": "item.alchyfarm.guide",
+  "landing_text": "info.alchyfarm.guide.landing",
+  "version": 1,
+  "creative_tab": "alchyfarm:main",
+  "use_resource_pack": true,
+  "i18n": true,
+  "model": "alchyfarm:ledger",
+  "show_progress": false,
+  "open_sound": "minecraft:item.book.page_turn",
+  "flip_sound": "minecraft:item.book.page_turn",
+  "macros": {
+    "$(item)": "$(#8C2020)",
+    "$(thing)": "$(#2F4A7A)"
+  },
+  "book_texture": "alchyfarm:textures/gui/ledger.png"
+}

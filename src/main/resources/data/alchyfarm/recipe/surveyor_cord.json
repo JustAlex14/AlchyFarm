@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:carved_splinter",
+    "minecraft:string",
+    "alchyfarm:crimson_seal"
+  ],
+  "result": {
+    "id": "alchyfarm:surveyor_cord"
+  }
+}

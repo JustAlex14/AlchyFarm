@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:iron_fitting",
+    "alchyfarm:violet_seal",
+    "minecraft:bone_block",
+    "minecraft:bone_block",
+    "minecraft:lantern",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "alchyfarm:quality_stamp_1"
+  }
+}

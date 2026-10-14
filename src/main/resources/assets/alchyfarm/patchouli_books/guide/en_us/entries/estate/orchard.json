@@ -1,0 +1,18 @@
+{
+  "name": "The Orchard",
+  "icon": "alchyfarm:woodsman_post",
+  "category": "alchyfarm:estate",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:woodsman_post",
+      "text": "The $(item)woodsman's post$(): made with an axe. Fence in dirt."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Trees",
+      "text": "It plants saplings from the stock on every other square, like a chessboard, so each tree has room. It fells a grown tree whole, leaves and all, and plants again.$(br2)Cactus on sand, bamboo and sweet berries grow here too. A cactus in flower is cut for the flower."
+    }
+  ]
+}

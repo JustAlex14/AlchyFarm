@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alchyfarm:item/void_rifted_honey_bucket"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "core": "alchyfarm:hitching_post",
+  "layers": [
+    ["X"]
+  ],
+  "key": {
+    "X": {"core": true}
+  },
+  "result": [
+    ["X"]
+  ],
+  "result_key": {
+    "X": {"keep": true}
+  }
+}

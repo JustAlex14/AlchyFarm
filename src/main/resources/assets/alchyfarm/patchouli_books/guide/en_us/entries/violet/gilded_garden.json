@@ -1,0 +1,18 @@
+{
+  "name": "The Gilded Garden",
+  "icon": "alchyfarm:gilder_post",
+  "category": "alchyfarm:violet",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:gilder_post",
+      "text": "The $(item)gilder's post$(): made with a golden carrot. Fence in tilled soil."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Gold That Grows",
+      "text": "I did not expect this one to work. A golden carrot, a golden apple, a glistering slice of melon, set in tilled soil by the hand and by no one else, grow.$(br2)Each comes back as two, or as a melon of slices. An enchanted apple grows as well. Slowly. I have stopped asking what it grows on."
+    }
+  ]
+}

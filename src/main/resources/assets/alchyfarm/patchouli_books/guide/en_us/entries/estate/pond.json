@@ -1,0 +1,33 @@
+{
+  "name": "The Pond",
+  "icon": "alchyfarm:angler_post",
+  "category": "alchyfarm:estate",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:angler_post",
+      "text": "The $(item)angler's post$(): made with a fishing rod. Fence in water, at least $(thing)4$() squares of it."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Catch",
+      "text": "The hand fishes from the top of the post and plants sugar cane on the banks. Use the post to see everything it can bring up, and turn off what I do not want. What it throws back costs the cast.$(br2)Sneak and use the post for the map of the banks."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:bait",
+      "text": "$(item)Bait$() in the stock, one a cast. A fifth quicker, and no more boots."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:fine_bait",
+      "text": "$(item)Fine bait$(). Quicker again, and now and then treasure."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:rift_bait",
+      "text": "$(item)Rift bait$(). The cast takes less than half the time, and nearly one in five is treasure."
+    }
+  ]
+}

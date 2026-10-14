@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:planks",
+    "#minecraft:planks",
+    "minecraft:iron_nugget"
+  ],
+  "result": {
+    "id": "alchyfarm:estate_timber",
+    "count": 4
+  }
+}

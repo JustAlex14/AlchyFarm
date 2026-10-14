@@ -1,0 +1,33 @@
+{
+  "name": "Read This First",
+  "icon": "minecraft:writable_book",
+  "category": "alchyfarm:posting",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Sent Away",
+      "text": "My father has a name, an estate and a wife. I am the son of none of the three that matter. They were polite about it for years, which is how my family is cruel.$(br2)Then someone at court noticed that I could count, and my family was asked to keep me somewhere far."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Land",
+      "text": "They gave me this land. It is on the maps as a holding. In truth nothing had grown here in a generation, and they knew it. A gift one can neither refuse nor use is the family's favourite kind.$(br2)I arrived with a cart, a ledger and no staff."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Hut",
+      "text": "There was a hut. Someone had lived in it, long ago, and had left in no hurry. I never learned who.$(br2)The things on its walls were carved, not forged, and cut with marks I cannot read. I took what I could use and kept the rest tidy. It was not mine to throw out."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Soil",
+      "text": "The soil is not dead. It is tired, like a field after a bad lord. Whatever was wrong with it has been lifted already, by whom I cannot say, and nobody came back to notice.$(br2)So that is my posting. I am to make a dying land pay. I intend to."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How to Read It",
+      "text": "This is a ledger, and I keep it as one. What I built, what it cost, what it returned.$(br2)Where I write a number, I counted it. Where I write that I do not know, I do not."
+    }
+  ]
+}

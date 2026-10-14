@@ -1,0 +1,47 @@
+{
+  "name": "The Mine",
+  "icon": "alchyfarm:miner_post",
+  "category": "alchyfarm:violet",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:miner_post",
+      "text": "The $(item)miner's post$(): made with a pickaxe. Pickaxes of any make go in its stock."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Mine",
+      "multiblock_id": "alchyfarm:mine",
+      "enable_visualize": true,
+      "text": "Stone walls, logs in front. Pickaxes in the stock."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "How It Digs",
+      "text": "Nothing is dug from the world. Ore shows on the walls, the miner breaks it, the wall is rock again.$(br2)Use the post to set the $(thing)height$() it digs at, down to the bottom of the world wherever the mine stands, and to turn off what I do not want. Torches quicken it. Fortune and Silk Touch count."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:nether_miner_post",
+      "text": "The $(item)nether miner's post$() wants netherrack in the making, and a shaft of nether stone. It works in any world. Quartz, gold, glowstone, and now and then the old debris."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Nether Mine",
+      "multiblock_id": "alchyfarm:nether_mine",
+      "enable_visualize": true,
+      "text": "Nether stone, same shape."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:cask",
+      "text": "A $(item)cask$() holds 16 buckets of what a post gives as a liquid. Stand it on a mine's stock or basket, or beside a fenced post."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:pump",
+      "text": "A $(item)pump$() in the middle of a mine's floor draws lava into the casks. Only at the very bottom of the world, or at any height in the nether one. It does not run dry."
+    }
+  ]
+}

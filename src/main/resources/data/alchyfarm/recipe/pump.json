@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "F": "alchyfarm:iron_fitting",
+    "S": "alchyfarm:violet_seal",
+    "B": "minecraft:bucket"
+  },
+  "pattern": [
+    "F F",
+    "FSF",
+    "FBF"
+  ],
+  "result": {
+    "id": "alchyfarm:pump"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "The Ranch",
+  "icon": "alchyfarm:hitching_post",
+  "category": "alchyfarm:estate",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:hitching_post",
+      "text": "The $(item)hitching post$() wants a lead in the making. Fence a pen from it and bring animals in."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:trough",
+      "text": "The $(item)trough$() holds their feed. The hand refills it from the stock."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Herd",
+      "text": "Animals led into the pen are taken into the herd, and are not animals any more. Not quite. One pale green shape for each kind wanders the pen. They cannot be hurt, and they eat only when they give.$(br2)$(thing)32$() to a ranch. The post keeps its herd if I move it."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "What They Give",
+      "text": "Each grown animal gives what it would have dropped, unharmed, every two minutes, for one piece of its feed. Cows and goats are milked if buckets are in the stock. A mooshroom fills bowls.$(br2)Use the post to breed a pair, for four of their feed, or to set one free."
+    }
+  ]
+}

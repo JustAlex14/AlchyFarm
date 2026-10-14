@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "pumping=false": {
+      "model": "alchyfarm:block/pump_idle"
+    },
+    "pumping=true": {
+      "model": "alchyfarm:block/pump"
+    }
+  }
+}

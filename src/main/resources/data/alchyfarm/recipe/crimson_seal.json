@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:crimson_wax",
+    "alchyfarm:ledger_page"
+  ],
+  "result": {
+    "id": "alchyfarm:crimson_seal"
+  }
+}

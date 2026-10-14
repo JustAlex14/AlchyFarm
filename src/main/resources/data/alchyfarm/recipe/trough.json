@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "T": "alchyfarm:estate_timber",
+    "S": "alchyfarm:crimson_seal"
+  },
+  "pattern": [
+    "T T",
+    "TST",
+    "TTT"
+  ],
+  "result": {
+    "id": "alchyfarm:trough"
+  }
+}

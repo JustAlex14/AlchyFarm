@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alchyfarm:item/deep_rifted_stew_bucket"
+  }
+}

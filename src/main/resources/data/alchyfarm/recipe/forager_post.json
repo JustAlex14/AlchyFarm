@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "alchyfarm:carved_splinter",
+    "alchyfarm:estate_timber",
+    "alchyfarm:violet_seal",
+    [
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom"
+    ]
+  ],
+  "result": {
+    "id": "alchyfarm:forager_post"
+  }
+}

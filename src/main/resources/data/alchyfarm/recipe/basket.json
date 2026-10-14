@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "/": "minecraft:stick",
+    "S": "alchyfarm:crimson_seal"
+  },
+  "pattern": [
+    "/ /",
+    "/S/",
+    "///"
+  ],
+  "result": {
+    "id": "alchyfarm:basket"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "alchyfarm:block/attached_gilded_melon_stem",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "alchyfarm:block/attached_gilded_melon_stem",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "alchyfarm:block/attached_gilded_melon_stem",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "alchyfarm:block/attached_gilded_melon_stem"
+    }
+  }
+}

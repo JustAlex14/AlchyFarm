@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alchyfarm:item/quality_stamp_1"
+  }
+}

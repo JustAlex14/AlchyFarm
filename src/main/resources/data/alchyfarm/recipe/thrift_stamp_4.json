@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:thrift_stamp_3",
+    "alchyfarm:violet_seal",
+    "minecraft:nether_star",
+    {
+      "neoforge:ingredient_type": "alchyx:rifted",
+      "level": 3
+    }
+  ],
+  "result": {
+    "id": "alchyfarm:thrift_stamp_4"
+  }
+}

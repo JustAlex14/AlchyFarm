@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:iron_fitting",
+    "minecraft:obsidian",
+    "alchyfarm:violet_seal",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "alchyfarm:void_stamp_1"
+  }
+}

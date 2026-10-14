@@ -1,0 +1,171 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "wood": "alchyfarm:block/carved_stake",
+    "straw": "minecraft:block/hay_block_side",
+    "straw_top": "minecraft:block/hay_block_top",
+    "particle": "alchyfarm:block/carved_stake"
+  },
+  "elements": [
+    {
+      "from": [
+        6.5,
+        0,
+        6.5
+      ],
+      "to": [
+        9.5,
+        11,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#wood"
+        },
+        "south": {
+          "texture": "#wood"
+        },
+        "east": {
+          "texture": "#wood"
+        },
+        "west": {
+          "texture": "#wood"
+        },
+        "up": {
+          "texture": "#wood"
+        },
+        "down": {
+          "texture": "#wood"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        9.5,
+        7.25
+      ],
+      "to": [
+        14,
+        11,
+        8.75
+      ],
+      "faces": {
+        "north": {
+          "texture": "#wood"
+        },
+        "south": {
+          "texture": "#wood"
+        },
+        "east": {
+          "texture": "#wood"
+        },
+        "west": {
+          "texture": "#wood"
+        },
+        "up": {
+          "texture": "#wood"
+        },
+        "down": {
+          "texture": "#wood"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        11,
+        5
+      ],
+      "to": [
+        11,
+        16,
+        11
+      ],
+      "faces": {
+        "north": {
+          "texture": "#straw"
+        },
+        "south": {
+          "texture": "#straw"
+        },
+        "east": {
+          "texture": "#straw"
+        },
+        "west": {
+          "texture": "#straw"
+        },
+        "up": {
+          "texture": "#straw_top"
+        },
+        "down": {
+          "texture": "#straw_top"
+        }
+      }
+    },
+    {
+      "from": [
+        0.5,
+        8,
+        6.75
+      ],
+      "to": [
+        2.5,
+        11.5,
+        9.25
+      ],
+      "faces": {
+        "north": {
+          "texture": "#straw"
+        },
+        "south": {
+          "texture": "#straw"
+        },
+        "east": {
+          "texture": "#straw"
+        },
+        "west": {
+          "texture": "#straw"
+        },
+        "up": {
+          "texture": "#straw_top"
+        },
+        "down": {
+          "texture": "#straw_top"
+        }
+      }
+    },
+    {
+      "from": [
+        13.5,
+        8,
+        6.75
+      ],
+      "to": [
+        15.5,
+        11.5,
+        9.25
+      ],
+      "faces": {
+        "north": {
+          "texture": "#straw"
+        },
+        "south": {
+          "texture": "#straw"
+        },
+        "east": {
+          "texture": "#straw"
+        },
+        "west": {
+          "texture": "#straw"
+        },
+        "up": {
+          "texture": "#straw_top"
+        },
+        "down": {
+          "texture": "#straw_top"
+        }
+      }
+    }
+  ]
+}

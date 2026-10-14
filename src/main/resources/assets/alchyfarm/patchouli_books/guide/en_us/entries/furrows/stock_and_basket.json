@@ -1,0 +1,23 @@
+{
+  "name": "Stock and Basket",
+  "icon": "alchyfarm:stock",
+  "category": "alchyfarm:furrows",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:stock",
+      "text": "The $(item)stock$() holds what a workstation uses: seed, bone meal, tools, bottles, bait."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:basket",
+      "text": "The $(item)basket$() takes what it yields. It shows what is in it, which saves opening it."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Where They Stand",
+      "text": "Both must touch the post, or stand in the line of its fence. Several of each are allowed.$(br2)A full basket stops the work. Nothing is ever thrown on the ground. Whoever works the post holds what does not fit, and waits. Empty the basket, or run a hopper from it."
+    }
+  ]
+}

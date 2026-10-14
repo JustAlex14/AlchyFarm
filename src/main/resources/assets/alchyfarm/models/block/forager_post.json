@@ -1,0 +1,274 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "wood": "alchyfarm:block/forager_post",
+    "moss": "minecraft:block/moss_block",
+    "shelf": "minecraft:block/brown_mushroom_block",
+    "red": "minecraft:block/red_mushroom",
+    "brown": "minecraft:block/brown_mushroom",
+    "particle": "alchyfarm:block/forager_post"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        0,
+        4
+      ],
+      "to": [
+        12,
+        9,
+        12
+      ],
+      "faces": {
+        "north": {
+          "texture": "#wood"
+        },
+        "south": {
+          "texture": "#wood"
+        },
+        "east": {
+          "texture": "#wood"
+        },
+        "west": {
+          "texture": "#wood"
+        },
+        "up": {
+          "texture": "#moss"
+        },
+        "down": {
+          "texture": "#wood"
+        }
+      }
+    },
+    {
+      "from": [
+        3.5,
+        9,
+        3.5
+      ],
+      "to": [
+        12.5,
+        10,
+        12.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#moss"
+        },
+        "south": {
+          "texture": "#moss"
+        },
+        "east": {
+          "texture": "#moss"
+        },
+        "west": {
+          "texture": "#moss"
+        },
+        "up": {
+          "texture": "#moss"
+        },
+        "down": {
+          "texture": "#moss"
+        }
+      }
+    },
+    {
+      "from": [
+        12,
+        4,
+        6
+      ],
+      "to": [
+        14,
+        5,
+        10
+      ],
+      "faces": {
+        "north": {
+          "texture": "#shelf"
+        },
+        "south": {
+          "texture": "#shelf"
+        },
+        "east": {
+          "texture": "#shelf"
+        },
+        "west": {
+          "texture": "#shelf"
+        },
+        "up": {
+          "texture": "#shelf"
+        },
+        "down": {
+          "texture": "#shelf"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        2,
+        7
+      ],
+      "to": [
+        4,
+        3,
+        11
+      ],
+      "faces": {
+        "north": {
+          "texture": "#shelf"
+        },
+        "south": {
+          "texture": "#shelf"
+        },
+        "east": {
+          "texture": "#shelf"
+        },
+        "west": {
+          "texture": "#shelf"
+        },
+        "up": {
+          "texture": "#shelf"
+        },
+        "down": {
+          "texture": "#shelf"
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        10,
+        6.5
+      ],
+      "to": [
+        10,
+        17,
+        6.5
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#red"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#red"
+        }
+      }
+    },
+    {
+      "from": [
+        6.5,
+        10,
+        3
+      ],
+      "to": [
+        6.5,
+        17,
+        10
+      ],
+      "shade": false,
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#red"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#red"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        10,
+        10.5
+      ],
+      "to": [
+        13,
+        15,
+        10.5
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#brown"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#brown"
+        }
+      }
+    },
+    {
+      "from": [
+        10.5,
+        10,
+        8
+      ],
+      "to": [
+        10.5,
+        15,
+        13
+      ],
+      "shade": false,
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#brown"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#brown"
+        }
+      }
+    }
+  ],
+  "render_type": "minecraft:cutout"
+}

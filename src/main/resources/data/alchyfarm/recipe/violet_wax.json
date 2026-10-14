@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:honeycomb",
+    "minecraft:amethyst_shard",
+    "minecraft:obsidian"
+  ],
+  "result": {
+    "id": "alchyfarm:violet_wax",
+    "count": 2
+  }
+}

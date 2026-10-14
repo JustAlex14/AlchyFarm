@@ -1,0 +1,43 @@
+{
+  "name": "The Crop Plot",
+  "icon": "alchyfarm:carved_stake",
+  "category": "alchyfarm:furrows",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:carved_stake",
+      "text": "The $(item)carved stake$(): splinter, timber, crimson seal and a hoe. Set it at the edge of tilled soil, with a stock and a basket."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "My Place Was Taken",
+      "text": "I built the first plot for myself. I sowed it and went to bed sore.$(br2)In the morning someone was working it. Pale, thin as breath, in a farmer's hat. It did not look up. It had come through a tear in the air above the furrows, and I had not called it. I have never called any of them."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Hands",
+      "text": "I call them the hands. I do not order them. I was ordered here myself, and I know what that is worth.$(br2)I give them a place and what the place needs. They sow from the stock, reap into the basket, and keep the soil wet with no water near. One hand to a post. Never two."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Field",
+      "text": "Close a fence round the soil from the stake and that is the field, any shape, up to $(thing)9 by 9$(). Gates work. Hedges, panes, bars, trapdoors and carpets close it as well.$(br2)With no fence at all, a stake works the $(thing)5 by 5$() around itself. An open fence works nothing until it is closed."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Map",
+      "text": "Use the stake to see the field. Click a square with a seed in hand: it is always sown with that. Click with an empty hand to keep a square bare, which pumpkins and melons need beside them. Right-click to fix what grows there now.$(br2)The number is the share of seed kept back for sowing."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "What It Grows",
+      "text": "Wheat, carrots, potatoes, beetroot, pumpkins, melons. An apple, put in the stock, is planted as a small apple tree that gives two.$(br2)Bone meal in the stock is cast over the whole field at once, from the top of the stake."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:trellis",
+      "text": "A $(item)trellis$() stood in the field holds glow berries, up to three high. The hand sets the vine and picks the berries."
+    }
+  ]
+}

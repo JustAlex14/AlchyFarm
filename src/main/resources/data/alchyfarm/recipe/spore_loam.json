@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:dirt",
+    "minecraft:dirt",
+    "minecraft:dirt",
+    "minecraft:dirt",
+    "minecraft:red_mushroom",
+    "minecraft:brown_mushroom",
+    "alchyfarm:violet_wax"
+  ],
+  "result": {
+    "id": "alchyfarm:spore_loam",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "alchyfarm:carved_splinter",
+    "alchyfarm:estate_timber",
+    "alchyfarm:crimson_seal",
+    "#minecraft:axes"
+  ],
+  "result": {
+    "id": "alchyfarm:woodsman_post"
+  }
+}

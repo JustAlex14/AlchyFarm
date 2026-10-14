@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "T": "alchyfarm:estate_timber",
+    "F": "alchyfarm:iron_fitting",
+    "S": "alchyfarm:violet_seal"
+  },
+  "pattern": [
+    "TFT",
+    "TST",
+    "TFT"
+  ],
+  "result": {
+    "id": "alchyfarm:cask"
+  }
+}

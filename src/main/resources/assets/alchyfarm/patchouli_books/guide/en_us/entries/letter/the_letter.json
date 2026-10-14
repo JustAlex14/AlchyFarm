@@ -1,0 +1,33 @@
+{
+  "name": "The Letter",
+  "icon": "minecraft:paper",
+  "category": "alchyfarm:letter",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "It Came by Rider",
+      "text": "A letter came by rider, on good paper. It thanked me for my service to the family. It regretted that my name could no longer appear in its rolls. It was signed by all of them, which was thoughtful.$(br2)The harvest that year had been the best in the county. I do not think that was a coincidence."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Accounts",
+      "text": "I read it twice and entered it in the ledger under losses. Then I struck that out. Nothing of theirs was ever mine to lose.$(br2)The land is in my name. They saw to that themselves, so that its failure would be mine alone."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Crest",
+      "text": "I had no right to the crimson any more. I was surprised to find that I did not want it.$(br2)The hut's amethyst was to hand, and the black stone from the ridge. I cut a crest of my own. The family's shield, split down the middle, with a stone set in the crack."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:violet_wax",
+      "text": "$(item)Violet wax$(): honeycomb, an amethyst shard and obsidian. It does not sit still in the dish."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:violet_seal",
+      "text": "The $(item)violet seal$() will not take without an ender pearl pressed into it. Posts raised under it reach further than fields. Under the ground, among the hives, into things I was taught to leave alone."
+    }
+  ]
+}

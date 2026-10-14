@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alchyfarm:item/thrift_stamp_3"
+  }
+}

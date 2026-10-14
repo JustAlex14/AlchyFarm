@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "alchyfarm:carved_splinter",
+    "alchyfarm:estate_timber",
+    "alchyfarm:violet_seal",
+    "#minecraft:pickaxes",
+    "minecraft:netherrack"
+  ],
+  "result": {
+    "id": "alchyfarm:nether_miner_post"
+  }
+}

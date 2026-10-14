@@ -1,0 +1,38 @@
+{
+  "name": "Working by the Rift",
+  "icon": "alchyfarm:haste_stamp_3",
+  "category": "alchyfarm:rift",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "They Stopped Walking",
+      "text": "The day I pressed the first violet stamp, the hand at that post put down its hoe. It has not picked it up since.$(br2)It stands, raises both arms, and a tear opens in the air before it. What it wanted comes to it. The field ripens faster than weather allows."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Count",
+      "text": "Each tier above the second, on each of the three stamps, lets a little more through. I count it from one to six.$(br2)At $(thing)six$() the hand stands with its back to the post and does not move again. A field is reaped in one breath. The mine gives only what I asked for. The pond is fished everywhere at once."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Rifted",
+      "text": "Some of what comes back has been through. Six in a hundred, for each count. Food that feeds twice over, then three and four times, and does something to whoever eats it. Raw ore that smelts into as much. Books with more written in them.$(br2)It keeps through a furnace."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Price of Four",
+      "text": "A tier IV stamp will not take without something $(thing)deep-rifted$(): a thing brought back by a post that already bears three violet stamps.$(br2)So the last step is paid in what the step before it gave. I find that honest, as prices go."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "From the Water",
+      "text": "By the rift, the pond gives bottles nobody brewed. Speed past running, strength past sense. Rifted honey, milk and stew each fill a cask of their own, a cask for each depth of the rift.$(br2)In the hollow and the flower garden nothing comes back changed. Only more of it. I am glad of that. A flower should stay a flower."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "A Spoiled Potato",
+      "text": "One note for whoever keeps this estate after me. The plot will sometimes return a poisonous potato that has been through.$(br2)Do not eat it, and do not throw it out. I left one on the brewing stand by mistake, over the awkward bottles. I would not hand the result to a friend."
+    }
+  ]
+}

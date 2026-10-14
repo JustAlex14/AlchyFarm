@@ -1,0 +1,28 @@
+{
+  "name": "The Estate Without Me",
+  "icon": "alchyfarm:violet_seal",
+  "category": "alchyfarm:rift",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "It Runs",
+      "text": "I walked the estate this morning and gave no instruction, because none was needed. Every basket was filling. The people who came here with nowhere else to go have bread, and a wall, and work if they want it.$(br2)I was sent to a dying land. It is not dying."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Hands Again",
+      "text": "I have asked the hands where they come from. They do not answer, but they all turn the same way when I ask. Toward the tear.$(br2)I think they were people nobody had a place for. I think that is why they came to a man in the same position."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "The Call",
+      "text": "Since the sixth count there is something on the other side that knows my name. Not the family's. Mine.$(br2)It does not order. It asks, the way I ask the hands. I notice that I am the one who taught myself to respect that."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Closing the Ledger",
+      "text": "The accounts are balanced. The steward has the keys and this book.$(br2)I am not fleeing. I was pushed out of one house and I am walking out of this one, which is different. If the tear leads somewhere, I will keep a ledger there too. Someone always has to."
+    }
+  ]
+}

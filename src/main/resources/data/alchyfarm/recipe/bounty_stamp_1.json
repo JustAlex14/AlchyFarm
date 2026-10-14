@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:iron_fitting",
+    "alchyfarm:crimson_seal",
+    "minecraft:wheat"
+  ],
+  "result": {
+    "id": "alchyfarm:bounty_stamp_1"
+  }
+}

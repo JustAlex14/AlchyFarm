@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:logs",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "alchyfarm:carved_splinter",
+    "count": 2
+  }
+}

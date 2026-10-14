@@ -1,0 +1,18 @@
+{
+  "name": "The Flower Garden",
+  "icon": "alchyfarm:gardener_post",
+  "category": "alchyfarm:estate",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:gardener_post",
+      "text": "The $(item)gardener's post$(): made with any small flower. Fence in grass."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Blooms",
+      "text": "Flowers from the stock are planted and stay. Each gives a bloom every two minutes, and bone meal doubles that.$(br2)Use the post, and any kind can be ground to dye as it is cut."
+    }
+  ]
+}

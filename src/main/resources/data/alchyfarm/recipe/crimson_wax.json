@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:honeycomb",
+    "minecraft:red_dye"
+  ],
+  "result": {
+    "id": "alchyfarm:crimson_wax",
+    "count": 2
+  }
+}

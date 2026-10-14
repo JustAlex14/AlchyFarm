@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:haste_stamp_2",
+    "alchyfarm:violet_seal",
+    "minecraft:glowstone_dust"
+  ],
+  "result": {
+    "id": "alchyfarm:haste_stamp_3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:fine_bait",
+    "alchyfarm:fine_bait",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "alchyfarm:rift_bait",
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "The Carved Splinter",
+  "icon": "alchyfarm:carved_splinter",
+  "category": "alchyfarm:posting",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:carved_splinter",
+      "text": "The hut's carvings wake when set in the ground. I cannot make their like. But a $(item)splinter$() of any log, cut the same way round a shard of amethyst, carries enough of it."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Two Hands",
+      "text": "So everything on this estate is made by two hands. The heart of each post is the hut's, old and odd. The rest is mine: squared timber, black iron, a page of this ledger and my seal.$(br2)I do not understand the first hand. I only keep good accounts of what it does."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "The Surveyor's Cord",
+  "icon": "alchyfarm:surveyor_cord",
+  "category": "alchyfarm:furrows",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:surveyor_cord",
+      "text": "For when the post should stand at my door and the field elsewhere. Sneak and use the $(item)cord$() on a post to take hold of it. It glows while it holds one."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Linking",
+      "text": "Then, still sneaking: on a stock, basket, trough or cask, to join it to that post. On two corners of ground, to mark its field between them.$(br2)All within $(thing)11 blocks$() of the post and on its level. Motes show what is bound. Used on the same post again, the post forgets all of it."
+    }
+  ]
+}

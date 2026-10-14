@@ -1,0 +1,33 @@
+{
+  "name": "Estate Stores",
+  "icon": "alchyfarm:estate_timber",
+  "category": "alchyfarm:furrows",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:estate_timber",
+      "text": "$(item)Estate timber$(): planks squared and banded with an iron nugget. Four to a batch. It goes into every post and every store."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:iron_fitting",
+      "text": "$(item)Iron fittings$(): an ingot blacked over coal. Four to a batch. Corners, bands, hinges."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:ledger_page",
+      "text": "A $(item)ledger page$() is paper ruled in ink. Two to a batch. Every seal I set is set on one, so that it is on record."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:crimson_wax",
+      "text": "$(item)Crimson wax$(): honeycomb and red dye. My family's colour. I had a right to it, on paper."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "alchyfarm:crimson_seal",
+      "text": "The $(item)crimson seal$(): wax on a ledger page, pressed with the family crest. A post raised under it is raised in their name. That amused me at the time."
+    }
+  ]
+}

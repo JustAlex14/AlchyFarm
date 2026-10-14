@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:thrift_stamp_2",
+    "alchyfarm:violet_seal",
+    "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "alchyfarm:thrift_stamp_3"
+  }
+}

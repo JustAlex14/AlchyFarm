@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "alchyfarm:block/spore_loam_top",
+    "side": "alchyfarm:block/spore_loam_side",
+    "bottom": "alchyfarm:block/spore_loam_bottom"
+  }
+}

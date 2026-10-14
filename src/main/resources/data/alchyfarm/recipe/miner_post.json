@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "alchyfarm:carved_splinter",
+    "alchyfarm:estate_timber",
+    "alchyfarm:violet_seal",
+    "#minecraft:pickaxes"
+  ],
+  "result": {
+    "id": "alchyfarm:miner_post"
+  }
+}

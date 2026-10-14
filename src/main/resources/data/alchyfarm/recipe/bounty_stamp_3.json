@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "alchyfarm:bounty_stamp_2",
+    "alchyfarm:violet_seal",
+    "minecraft:emerald"
+  ],
+  "result": {
+    "id": "alchyfarm:bounty_stamp_3"
+  }
+}
