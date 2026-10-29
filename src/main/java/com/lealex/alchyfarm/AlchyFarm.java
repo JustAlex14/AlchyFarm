@@ -33,6 +33,7 @@ public class AlchyFarm {
         net.neoforged.neoforge.common.NeoForgeMod.enableMilkFluid(); // (a ranch pours milk into a cask)
         ModRegistries.register(modEventBus);
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
+        com.lealex.alchyx.config.CommonConfigSync.share(modContainer); // players on a server see its config in screens and JEI
         modEventBus.addListener(this::registerCapabilities);
         NeoForge.EVENT_BUS.addListener(AlchyFarm::keepFieldsUntrampled);
         NeoForge.EVENT_BUS.addListener(com.lealex.alchyfarm.upgrade.BlightBrewing::register);

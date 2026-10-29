@@ -63,7 +63,12 @@ public final class CordLinks {
 
         level.addParticle(ParticleTypes.END_ROD, from.x, from.y + 0.6, from.z,
                 (level.getRandom().nextDouble() - 0.5) * 0.05, 0.04, (level.getRandom().nextDouble() - 0.5) * 0.05);
-        for (BlockPos store : plot.linkedStores()) LinkLines.line(level, from.add(0, 0.3, 0), Vec3.atCenterOf(store).add(0, 0.3, 0), CORD, MAX_MOTES, EVERY);
+        for (BlockPos store : plot.linkedStores()) {
+            // a store broken (or swapped for another block) leaves nothing to draw a line to
+            if (com.lealex.alchyx.link.Links.gone(level, store, state -> state.getBlock() instanceof com.lealex.alchyfarm.block.PlotStoreBlock
+                    || state.getBlock() instanceof com.lealex.alchyfarm.block.CaskBlock)) continue;
+            LinkLines.line(level, from.add(0, 0.3, 0), Vec3.atCenterOf(store).add(0, 0.3, 0), CORD, MAX_MOTES, EVERY);
+        }
 
         // The ground's edge: every side of a square that has no square of the ground beyond it
         List<BlockPos> field = plot.field();
