@@ -2,7 +2,7 @@
   "letterbox": true,
   "shots": [
     {
-      "ticks": 180,
+      "ticks": 160,
       "orbit": {
         "center": [
           0,
@@ -18,7 +18,7 @@
       "fade_in": 30
     },
     {
-      "ticks": 170,
+      "ticks": 150,
       "points": [
         [
           0,
@@ -28,12 +28,12 @@
         [
           0,
           3.5,
-          10
+          12
         ],
         [
           0,
           6,
-          -14
+          -10
         ]
       ],
       "look": [
@@ -52,117 +52,114 @@
         ],
         "radius": 26,
         "height": 12,
-        "from": 190,
+        "from": 200,
         "to": 160,
         "look_height": 5
       }
     },
     {
-      "ticks": 280,
-      "points": [
-        [
-          -44,
-          6,
-          -1
-        ],
-        [
-          -24,
-          5,
-          -1
-        ],
-        [
-          -4,
-          5,
-          -1
-        ]
-      ],
-      "looks": [
-        [
-          -34,
+      "ticks": 130,
+      "orbit": {
+        "center": [
+          -38,
           0,
-          -10
+          -33.5
         ],
-        [
-          -24,
-          0,
-          -10
-        ],
-        [
-          -14,
-          0,
-          -10
-        ]
-      ]
+        "radius": 10,
+        "height": 5,
+        "from": -55,
+        "to": 5,
+        "look_height": 1.5
+      }
     },
     {
       "ticks": 170,
       "points": [
         [
-          4,
-          5,
-          -1
+          -38,
+          2.3,
+          -24.5
         ],
         [
-          24,
-          5,
-          -1
+          -38,
+          1.9,
+          -29
         ],
         [
-          44,
-          6,
-          -1
+          -38,
+          1.7,
+          -31.7
         ]
       ],
-      "looks": [
-        [
-          14,
-          0,
-          -10
-        ],
-        [
-          24,
-          0,
-          -10
-        ],
-        [
-          34,
-          0,
-          -10
-        ]
-      ]
+      "look": [
+        -37.5,
+        1.0,
+        -34.5
+      ],
+      "ease": "smooth"
     },
     {
-      "ticks": 260,
+      "ticks": 170,
       "orbit": {
         "center": [
           -34,
           0,
-          10
+          -10
         ],
-        "radius": 11,
-        "height": 9,
-        "from": 0,
-        "to": 110,
-        "look_height": 0
+        "radius": 10,
+        "height": 5,
+        "from": -40,
+        "to": 40,
+        "look_height": 0.5
       }
     },
     {
-      "ticks": 260,
+      "ticks": 170,
       "orbit": {
         "center": [
           -14,
           0,
-          10
+          -10
         ],
-        "radius": 11,
-        "height": 9,
-        "from": 0,
-        "to": -110,
-        "look_height": 0
+        "radius": 10,
+        "height": 5,
+        "from": 40,
+        "to": -40,
+        "look_height": 0.5
       }
     },
     {
-      "ticks": 240,
+      "ticks": 170,
+      "orbit": {
+        "center": [
+          14,
+          0,
+          -10
+        ],
+        "radius": 10,
+        "height": 5,
+        "from": -40,
+        "to": 40,
+        "look_height": 0.5
+      }
+    },
+    {
+      "ticks": 170,
+      "orbit": {
+        "center": [
+          34,
+          0,
+          -10
+        ],
+        "radius": 10,
+        "height": 5,
+        "from": 35,
+        "to": -35,
+        "look_height": 0.5
+      }
+    },
+    {
+      "ticks": 170,
       "orbit": {
         "center": [
           14,
@@ -170,60 +167,131 @@
           10
         ],
         "radius": 10,
-        "height": 6,
-        "from": 10,
-        "to": -110,
+        "height": 5,
+        "from": -40,
+        "to": 40,
         "look_height": 0
       }
     },
     {
-      "ticks": 200,
+      "ticks": 170,
+      "orbit": {
+        "center": [
+          -14,
+          0,
+          10
+        ],
+        "radius": 11,
+        "height": 7,
+        "from": 40,
+        "to": -40,
+        "look_height": 1.5
+      }
+    },
+    {
+      "ticks": 170,
+      "orbit": {
+        "center": [
+          -34,
+          0,
+          10
+        ],
+        "radius": 10,
+        "height": 5,
+        "from": -40,
+        "to": 40,
+        "look_height": 0.5
+      }
+    },
+    {
+      "ticks": 150,
       "points": [
         [
-          -44,
-          6,
-          20
+          -39,
+          3,
+          24
         ],
-        [
-          -24,
-          5,
-          20
-        ],
-        [
-          4,
-          6,
-          20
-        ]
-      ],
-      "looks": [
         [
           -34,
-          1,
-          30
+          2.8,
+          23.5
         ],
         [
-          -24,
-          1,
-          30
+          -29,
+          3,
+          24
+        ]
+      ],
+      "look": [
+        -34,
+        0.8,
+        30
+      ],
+      "ease": "smooth"
+    },
+    {
+      "ticks": 150,
+      "points": [
+        [
+          -19,
+          3,
+          24
+        ],
+        [
+          -14,
+          2.8,
+          23.5
+        ],
+        [
+          -9,
+          3,
+          24
+        ]
+      ],
+      "look": [
+        -14,
+        0.8,
+        30
+      ],
+      "ease": "smooth"
+    },
+    {
+      "ticks": 150,
+      "points": [
+        [
+          9,
+          3,
+          24
         ],
         [
           14,
-          1,
-          30
+          2.8,
+          23.5
+        ],
+        [
+          19,
+          3,
+          24
         ]
-      ]
+      ],
+      "look": [
+        14,
+        0.8,
+        30
+      ],
+      "ease": "smooth"
     },
     {
       "ticks": 200,
       "points": [
         [
           0,
-          3,
-          34
+          3.5,
+          32
         ],
         [
           0,
-          4,
+          8.5,
           44
         ],
         [
@@ -250,44 +318,62 @@
       "color": "#E8C66A"
     },
     {
-      "at": 210,
+      "at": 190,
       "ticks": 110,
-      "text": "Nobody came back for this land.",
+      "text": "They sent me to a dying land, where I would not be seen.",
       "style": "caption"
     },
     {
-      "at": 520,
-      "ticks": 110,
-      "text": "Close the fence. Someone comes through.",
+      "at": 455,
+      "ticks": 105,
+      "text": "A hut stood here already. Its owner never came back.",
       "style": "caption"
     },
     {
-      "at": 960,
-      "ticks": 110,
-      "text": "They never ask for anything.",
+      "at": 615,
+      "ticks": 115,
+      "text": "His books were still open. Whatever he did, the land had stopped dying.",
       "style": "caption"
     },
     {
-      "at": 1480,
-      "ticks": 100,
-      "text": "They do not sleep.",
+      "at": 770,
+      "ticks": 120,
+      "text": "I built a field for myself. By morning, someone had taken my place.",
       "style": "caption"
     },
     {
-      "at": 1720,
+      "at": 1110,
       "ticks": 110,
-      "text": "Dig deeper.",
+      "text": "I never asked them to stay. Nobody asked me either.",
+      "style": "caption"
+    },
+    {
+      "at": 1450,
+      "ticks": 110,
+      "text": "The hands do not sleep. I keep the accounts.",
+      "style": "caption"
+    },
+    {
+      "at": 1790,
+      "ticks": 110,
+      "text": "My family wrote once. I cut their crest from my seal.",
       "style": "caption"
     },
     {
       "at": 1960,
+      "ticks": 110,
+      "text": "I asked for stone. They bring back more than I wrote down.",
+      "style": "caption"
+    },
+    {
+      "at": 2450,
       "ticks": 120,
       "text": "AlchyFarm",
       "style": "title",
       "color": "#E8C66A"
     },
     {
-      "at": 1985,
+      "at": 2475,
       "ticks": 95,
       "text": "The land can heal now.",
       "style": "subtitle"
@@ -296,199 +382,544 @@
   "commands": [
     {
       "at": 0,
-      "command": "time set midnight"
+      "command": "time set 12500"
     },
     {
-      "at": 490,
+      "at": 1,
+      "command": "fill ~-18 ~-1 ~-14 ~-10 ~-1 ~-6 minecraft:farmland[moisture=7]"
+    },
+    {
+      "at": 2,
+      "command": "fill ~-18 ~0 ~-14 ~-10 ~0 ~-11 minecraft:wheat[age=7]"
+    },
+    {
+      "at": 2,
+      "command": "fill ~-18 ~0 ~-10 ~-10 ~0 ~-8 minecraft:carrots[age=7]"
+    },
+    {
+      "at": 2,
+      "command": "fill ~-18 ~0 ~-7 ~-10 ~0 ~-6 minecraft:potatoes[age=4]"
+    },
+    {
+      "at": 3,
       "command": "fill ~-19 ~ ~-15 ~-9 ~ ~-15 minecraft:oak_fence"
     },
     {
-      "at": 490,
+      "at": 3,
       "command": "fill ~-19 ~ ~-5 ~-9 ~ ~-5 minecraft:oak_fence"
     },
     {
-      "at": 491,
+      "at": 3,
       "command": "fill ~-19 ~ ~-14 ~-19 ~ ~-6 minecraft:oak_fence"
     },
     {
-      "at": 491,
+      "at": 3,
       "command": "fill ~-9 ~ ~-14 ~-9 ~ ~-6 minecraft:oak_fence"
     },
     {
-      "at": 492,
-      "command": "fill ~-18 ~-1 ~-14 ~-10 ~-1 ~-6 minecraft:farmland"
-    },
-    {
-      "at": 493,
+      "at": 4,
       "command": "setblock ~-15 ~ ~-5 alchyfarm:stock"
     },
     {
-      "at": 493,
-      "command": "setblock ~-13 ~ ~-5 alchyfarm:basket"
-    },
-    {
-      "at": 494,
+      "at": 5,
       "command": "item replace block ~-15 ~ ~-5 container.0 with minecraft:wheat_seeds 64"
     },
     {
-      "at": 494,
+      "at": 5,
       "command": "item replace block ~-15 ~ ~-5 container.1 with minecraft:carrot 32"
     },
     {
-      "at": 494,
-      "command": "item replace block ~-15 ~ ~-5 container.2 with minecraft:bone_meal 64"
+      "at": 5,
+      "command": "item replace block ~-15 ~ ~-5 container.2 with minecraft:potato 32"
     },
     {
-      "at": 496,
+      "at": 5,
+      "command": "item replace block ~-15 ~ ~-5 container.3 with minecraft:bone_meal 64"
+    },
+    {
+      "at": 4,
+      "command": "setblock ~-13 ~ ~-5 alchyfarm:basket"
+    },
+    {
+      "at": 7,
       "command": "setblock ~-14 ~ ~-5 alchyfarm:carved_stake"
     },
     {
-      "at": 940,
-      "command": "fill ~-39 ~ ~5 ~-29 ~ ~5 minecraft:oak_fence"
+      "at": 4,
+      "command": "setblock ~-37 ~ ~-13 minecraft:poppy"
     },
     {
-      "at": 940,
-      "command": "fill ~-39 ~ ~15 ~-29 ~ ~15 minecraft:oak_fence"
+      "at": 4,
+      "command": "setblock ~-33 ~ ~-13 minecraft:cornflower"
     },
     {
-      "at": 941,
-      "command": "fill ~-39 ~ ~6 ~-39 ~ ~14 minecraft:oak_fence"
+      "at": 4,
+      "command": "setblock ~-35 ~ ~-11 minecraft:allium"
     },
     {
-      "at": 941,
-      "command": "fill ~-29 ~ ~6 ~-29 ~ ~14 minecraft:oak_fence"
+      "at": 4,
+      "command": "setblock ~-31 ~ ~-11 minecraft:azure_bluet"
     },
     {
-      "at": 942,
-      "command": "setblock ~-35 ~ ~15 alchyfarm:stock"
+      "at": 4,
+      "command": "setblock ~-37 ~ ~-9 minecraft:oxeye_daisy"
     },
     {
-      "at": 942,
-      "command": "setblock ~-36 ~ ~15 alchyfarm:trough"
+      "at": 4,
+      "command": "setblock ~-33 ~ ~-9 minecraft:dandelion"
     },
     {
-      "at": 942,
-      "command": "setblock ~-33 ~ ~15 alchyfarm:basket"
+      "at": 4,
+      "command": "setblock ~-35 ~ ~-7 minecraft:lily_of_the_valley"
     },
     {
-      "at": 943,
-      "command": "item replace block ~-36 ~ ~15 container.0 with minecraft:wheat 64"
+      "at": 5,
+      "command": "fill ~-39 ~ ~-15 ~-29 ~ ~-15 minecraft:oak_fence"
     },
     {
-      "at": 943,
-      "command": "item replace block ~-36 ~ ~15 container.1 with minecraft:wheat 64"
+      "at": 5,
+      "command": "fill ~-39 ~ ~-5 ~-29 ~ ~-5 minecraft:oak_fence"
     },
     {
-      "at": 943,
-      "command": "item replace block ~-35 ~ ~15 container.0 with minecraft:wheat 64"
+      "at": 5,
+      "command": "fill ~-39 ~ ~-14 ~-39 ~ ~-6 minecraft:oak_fence"
     },
     {
-      "at": 943,
-      "command": "item replace block ~-35 ~ ~15 container.1 with minecraft:bucket 4"
+      "at": 5,
+      "command": "fill ~-29 ~ ~-14 ~-29 ~ ~-6 minecraft:oak_fence"
     },
     {
-      "at": 944,
+      "at": 6,
+      "command": "setblock ~-35 ~ ~-5 alchyfarm:stock"
+    },
+    {
+      "at": 7,
+      "command": "item replace block ~-35 ~ ~-5 container.0 with minecraft:poppy 16"
+    },
+    {
+      "at": 7,
+      "command": "item replace block ~-35 ~ ~-5 container.1 with minecraft:cornflower 16"
+    },
+    {
+      "at": 7,
+      "command": "item replace block ~-35 ~ ~-5 container.2 with minecraft:allium 16"
+    },
+    {
+      "at": 7,
+      "command": "item replace block ~-35 ~ ~-5 container.3 with minecraft:azure_bluet 16"
+    },
+    {
+      "at": 7,
+      "command": "item replace block ~-35 ~ ~-5 container.4 with minecraft:oxeye_daisy 16"
+    },
+    {
+      "at": 7,
+      "command": "item replace block ~-35 ~ ~-5 container.5 with minecraft:bone_meal 64"
+    },
+    {
+      "at": 6,
+      "command": "setblock ~-33 ~ ~-5 alchyfarm:basket"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~-34 ~ ~-5 alchyfarm:gardener_post"
+    },
+    {
+      "at": 6,
+      "command": "fill ~10 ~-1 ~-14 ~18 ~-1 ~-6 minecraft:farmland[moisture=7]"
+    },
+    {
+      "at": 7,
+      "command": "fill ~10 ~0 ~-14 ~18 ~0 ~-13 alchyfarm:gilded_carrots[age=3]"
+    },
+    {
+      "at": 7,
+      "command": "setblock ~11 ~ ~-10 alchyfarm:gilded_apple_tree[age=3]"
+    },
+    {
+      "at": 7,
+      "command": "setblock ~14 ~ ~-10 alchyfarm:gilded_apple_tree[age=3]"
+    },
+    {
+      "at": 7,
+      "command": "setblock ~17 ~ ~-10 alchyfarm:gilded_apple_tree[age=3]"
+    },
+    {
+      "at": 7,
+      "command": "setblock ~14 ~ ~-7 alchyfarm:enchanted_apple_tree[age=3]"
+    },
+    {
+      "at": 8,
+      "command": "fill ~9 ~ ~-15 ~19 ~ ~-15 minecraft:dark_oak_fence"
+    },
+    {
+      "at": 8,
+      "command": "fill ~9 ~ ~-5 ~19 ~ ~-5 minecraft:dark_oak_fence"
+    },
+    {
+      "at": 8,
+      "command": "fill ~9 ~ ~-14 ~9 ~ ~-6 minecraft:dark_oak_fence"
+    },
+    {
+      "at": 8,
+      "command": "fill ~19 ~ ~-14 ~19 ~ ~-6 minecraft:dark_oak_fence"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~13 ~ ~-5 alchyfarm:stock"
+    },
+    {
+      "at": 10,
+      "command": "item replace block ~13 ~ ~-5 container.0 with minecraft:golden_carrot 16"
+    },
+    {
+      "at": 10,
+      "command": "item replace block ~13 ~ ~-5 container.1 with minecraft:golden_apple 8"
+    },
+    {
+      "at": 10,
+      "command": "item replace block ~13 ~ ~-5 container.2 with minecraft:bone_meal 64"
+    },
+    {
+      "at": 10,
+      "command": "item replace block ~13 ~ ~-5 container.3 with minecraft:bone_meal 64"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~15 ~ ~-5 alchyfarm:basket"
+    },
+    {
+      "at": 12,
+      "command": "setblock ~14 ~ ~-5 alchyfarm:gilder_post"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~31 ~ ~-13 minecraft:beehive[facing=south,honey_level=5]"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~37 ~ ~-13 minecraft:beehive[facing=south,honey_level=5]"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~31 ~ ~-8 minecraft:beehive[facing=south,honey_level=4]"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~37 ~ ~-8 minecraft:beehive[facing=south,honey_level=3]"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~34 ~ ~-13 minecraft:poppy"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~33 ~ ~-11 minecraft:dandelion"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~35 ~ ~-11 minecraft:cornflower"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~34 ~ ~-10 minecraft:allium"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~32 ~ ~-10 minecraft:azure_bluet"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~36 ~ ~-10 minecraft:oxeye_daisy"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~34 ~ ~-8 minecraft:red_tulip"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~33 ~ ~-7 minecraft:orange_tulip"
+    },
+    {
+      "at": 9,
+      "command": "setblock ~35 ~ ~-7 minecraft:pink_tulip"
+    },
+    {
+      "at": 10,
+      "command": "fill ~29 ~ ~-15 ~39 ~ ~-15 minecraft:oak_fence"
+    },
+    {
+      "at": 10,
+      "command": "fill ~29 ~ ~-5 ~39 ~ ~-5 minecraft:oak_fence"
+    },
+    {
+      "at": 10,
+      "command": "fill ~29 ~ ~-14 ~29 ~ ~-6 minecraft:oak_fence"
+    },
+    {
+      "at": 10,
+      "command": "fill ~39 ~ ~-14 ~39 ~ ~-6 minecraft:oak_fence"
+    },
+    {
+      "at": 11,
+      "command": "setblock ~33 ~ ~-5 alchyfarm:stock"
+    },
+    {
+      "at": 12,
+      "command": "item replace block ~33 ~ ~-5 container.0 with minecraft:glass_bottle 32"
+    },
+    {
+      "at": 11,
+      "command": "setblock ~35 ~ ~-5 alchyfarm:basket"
+    },
+    {
+      "at": 14,
+      "command": "setblock ~34 ~ ~-5 alchyfarm:beekeeper_post"
+    },
+    {
+      "at": 11,
       "command": "summon minecraft:cow ~-36 ~ ~8"
     },
     {
-      "at": 944,
+      "at": 11,
       "command": "summon minecraft:cow ~-32 ~ ~11"
     },
     {
-      "at": 944,
+      "at": 11,
       "command": "summon minecraft:sheep ~-34 ~ ~6"
     },
     {
-      "at": 944,
+      "at": 11,
       "command": "summon minecraft:sheep ~-31 ~ ~8"
     },
     {
-      "at": 944,
+      "at": 11,
       "command": "summon minecraft:cow ~-37 ~ ~12"
     },
     {
-      "at": 948,
+      "at": 11,
+      "command": "summon minecraft:pig ~-33 ~ ~13"
+    },
+    {
+      "at": 11,
+      "command": "summon minecraft:chicken ~-35 ~ ~10"
+    },
+    {
+      "at": 12,
+      "command": "fill ~-39 ~ ~5 ~-29 ~ ~5 minecraft:oak_fence"
+    },
+    {
+      "at": 12,
+      "command": "fill ~-39 ~ ~15 ~-29 ~ ~15 minecraft:oak_fence"
+    },
+    {
+      "at": 12,
+      "command": "fill ~-39 ~ ~6 ~-39 ~ ~14 minecraft:oak_fence"
+    },
+    {
+      "at": 12,
+      "command": "fill ~-29 ~ ~6 ~-29 ~ ~14 minecraft:oak_fence"
+    },
+    {
+      "at": 13,
+      "command": "setblock ~-35 ~ ~15 alchyfarm:stock"
+    },
+    {
+      "at": 14,
+      "command": "item replace block ~-35 ~ ~15 container.0 with minecraft:wheat 64"
+    },
+    {
+      "at": 14,
+      "command": "item replace block ~-35 ~ ~15 container.1 with minecraft:carrot 32"
+    },
+    {
+      "at": 14,
+      "command": "item replace block ~-35 ~ ~15 container.2 with minecraft:wheat_seeds 32"
+    },
+    {
+      "at": 14,
+      "command": "item replace block ~-35 ~ ~15 container.3 with minecraft:bucket 4"
+    },
+    {
+      "at": 13,
+      "command": "setblock ~-33 ~ ~15 alchyfarm:basket"
+    },
+    {
+      "at": 13,
+      "command": "setblock ~-36 ~ ~15 alchyfarm:trough"
+    },
+    {
+      "at": 14,
+      "command": "item replace block ~-36 ~ ~15 container.0 with minecraft:wheat 64"
+    },
+    {
+      "at": 14,
+      "command": "item replace block ~-36 ~ ~15 container.1 with minecraft:carrot 32"
+    },
+    {
+      "at": 14,
+      "command": "item replace block ~-36 ~ ~15 container.2 with minecraft:wheat_seeds 32"
+    },
+    {
+      "at": 16,
       "command": "setblock ~-34 ~ ~15 alchyfarm:hitching_post"
     },
     {
-      "at": 1200,
+      "at": 13,
+      "command": "place feature minecraft:oak ~-16 ~ ~8"
+    },
+    {
+      "at": 13,
+      "command": "place feature minecraft:oak ~-12 ~ ~12"
+    },
+    {
+      "at": 14,
       "command": "fill ~-19 ~ ~5 ~-9 ~ ~5 minecraft:oak_fence"
     },
     {
-      "at": 1200,
+      "at": 14,
       "command": "fill ~-19 ~ ~15 ~-9 ~ ~15 minecraft:oak_fence"
     },
     {
-      "at": 1201,
+      "at": 14,
       "command": "fill ~-19 ~ ~6 ~-19 ~ ~14 minecraft:oak_fence"
     },
     {
-      "at": 1201,
+      "at": 14,
       "command": "fill ~-9 ~ ~6 ~-9 ~ ~14 minecraft:oak_fence"
     },
     {
-      "at": 1202,
+      "at": 15,
       "command": "setblock ~-15 ~ ~15 alchyfarm:stock"
     },
     {
-      "at": 1202,
-      "command": "setblock ~-13 ~ ~15 alchyfarm:basket"
-    },
-    {
-      "at": 1203,
+      "at": 16,
       "command": "item replace block ~-15 ~ ~15 container.0 with minecraft:oak_sapling 32"
     },
     {
-      "at": 1203,
+      "at": 16,
       "command": "item replace block ~-15 ~ ~15 container.1 with minecraft:birch_sapling 32"
     },
     {
-      "at": 1203,
+      "at": 16,
       "command": "item replace block ~-15 ~ ~15 container.2 with minecraft:bone_meal 64"
     },
     {
-      "at": 1203,
+      "at": 16,
       "command": "item replace block ~-15 ~ ~15 container.3 with minecraft:bone_meal 64"
     },
     {
-      "at": 1205,
+      "at": 15,
+      "command": "setblock ~-13 ~ ~15 alchyfarm:basket"
+    },
+    {
+      "at": 18,
       "command": "setblock ~-14 ~ ~15 alchyfarm:woodsman_post"
     },
     {
-      "at": 1460,
+      "at": 15,
       "command": "fill ~9 ~ ~5 ~19 ~ ~5 minecraft:oak_fence"
     },
     {
-      "at": 1460,
+      "at": 15,
       "command": "fill ~9 ~ ~15 ~19 ~ ~15 minecraft:oak_fence"
     },
     {
-      "at": 1461,
+      "at": 15,
       "command": "fill ~9 ~ ~6 ~9 ~ ~14 minecraft:oak_fence"
     },
     {
-      "at": 1461,
+      "at": 15,
       "command": "fill ~19 ~ ~6 ~19 ~ ~14 minecraft:oak_fence"
     },
     {
-      "at": 1462,
+      "at": 16,
+      "command": "setblock ~13 ~ ~15 alchyfarm:stock"
+    },
+    {
+      "at": 17,
+      "command": "item replace block ~13 ~ ~15 container.0 with alchyfarm:bait 64"
+    },
+    {
+      "at": 17,
+      "command": "item replace block ~13 ~ ~15 container.1 with minecraft:sugar_cane 16"
+    },
+    {
+      "at": 16,
       "command": "setblock ~15 ~ ~15 alchyfarm:basket"
     },
     {
-      "at": 1464,
+      "at": 19,
       "command": "setblock ~14 ~ ~15 alchyfarm:angler_post"
     },
     {
-      "at": 1690,
-      "command": "alchyx showcase build alchyfarm:mushroom_farm ~-34 ~ ~30 north"
+      "at": 16,
+      "command": "alchyx showcase build alchyfarm:mushroom_farm ~-34 ~-1 ~30 north"
     },
     {
-      "at": 1750,
-      "command": "alchyx showcase build alchyfarm:mine ~-14 ~ ~30 north"
+      "at": 126,
+      "command": "item replace block ~-35 ~ ~28 container.0 with minecraft:bone_meal 64"
     },
     {
-      "at": 1810,
-      "command": "alchyx showcase build alchyfarm:nether_mine ~14 ~ ~30 north"
+      "at": 126,
+      "command": "item replace block ~-35 ~ ~28 container.1 with minecraft:red_mushroom 8"
+    },
+    {
+      "at": 126,
+      "command": "item replace block ~-35 ~ ~28 container.2 with minecraft:brown_mushroom 8"
+    },
+    {
+      "at": 126,
+      "command": "item replace block ~-33 ~ ~28 container.0 with minecraft:bone_meal 64"
+    },
+    {
+      "at": 126,
+      "command": "item replace block ~-33 ~ ~28 container.1 with minecraft:red_mushroom 8"
+    },
+    {
+      "at": 126,
+      "command": "item replace block ~-33 ~ ~28 container.2 with minecraft:brown_mushroom 8"
+    },
+    {
+      "at": 18,
+      "command": "alchyx showcase build alchyfarm:mine ~-14 ~-1 ~30 north"
+    },
+    {
+      "at": 128,
+      "command": "item replace block ~-15 ~ ~28 container.0 with minecraft:diamond_pickaxe"
+    },
+    {
+      "at": 128,
+      "command": "item replace block ~-15 ~ ~28 container.1 with minecraft:torch 64"
+    },
+    {
+      "at": 128,
+      "command": "item replace block ~-13 ~ ~28 container.0 with minecraft:diamond_pickaxe"
+    },
+    {
+      "at": 128,
+      "command": "item replace block ~-13 ~ ~28 container.1 with minecraft:torch 64"
+    },
+    {
+      "at": 20,
+      "command": "alchyx showcase build alchyfarm:nether_mine ~14 ~-1 ~30 north"
+    },
+    {
+      "at": 130,
+      "command": "item replace block ~13 ~ ~28 container.0 with minecraft:diamond_pickaxe"
+    },
+    {
+      "at": 130,
+      "command": "item replace block ~13 ~ ~28 container.1 with minecraft:torch 64"
+    },
+    {
+      "at": 130,
+      "command": "item replace block ~15 ~ ~28 container.0 with minecraft:diamond_pickaxe"
+    },
+    {
+      "at": 130,
+      "command": "item replace block ~15 ~ ~28 container.1 with minecraft:torch 64"
     }
-  ]
+  ],
+  "music": "alchyfarm:trailer_music"
 }

@@ -1,0 +1,10 @@
+{
+  "trailer_music": {
+    "sounds": [
+      {
+        "name": "alchyfarm:trailer_music",
+        "stream": true
+      }
+    ]
+  }
+}
