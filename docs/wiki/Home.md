@@ -9,6 +9,7 @@ AlchyFarm is a farming mod for NeoForge (Minecraft 26.1.2), built on [AlchyX](ht
 - [Stamps and the Rift](Stamps-and-the-Rift): Haste, Bounty, Thrift, Quality Work, Void, and rifted produce
 - [Casks, Pump and Cord](Casks-Pump-and-Cord)
 - [Configuration](Configuration)
+- [Modpack Guide](Modpack-Guide): recipes, tags, costs and shapes for pack makers
 
 ## Requirements
 
